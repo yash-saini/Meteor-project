@@ -1,4 +1,9 @@
 body {
+  padding-top: 60px;
   padding: 10px;
   font-family: sans-serif;
+}
+.thumbnail {
+min-height: 500px;
+max-height: 500px;
 }
